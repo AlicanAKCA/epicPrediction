@@ -8,4 +8,4 @@
 
 • This is a random data generation with attempt to predict the result. 
 • If you want, you can access the details on the blog page!
-[![Blog Page]](https://alicanakca.com/randomness)
+[Blog](https://alicanakca.com/randomness)
